@@ -1,0 +1,208 @@
+00:00.332	ID:8	Rime started with address 8.0
+00:00.342	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 8.
+00:00.351	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.352	ID:8	Starting 'Nodo'
+00:00.494	ID:2	Rime started with address 2.0
+00:00.504	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 2.
+00:00.509	ID:6	Rime started with address 6.0
+00:00.513	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.515	ID:2	Starting 'sending_broadcast'
+00:00.518	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 6.
+00:00.528	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.530	ID:6	Starting 'sending_broadcast'
+00:00.607	ID:4	Rime started with address 4.0
+00:00.616	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 4.
+00:00.625	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.627	ID:4	Starting 'sending_broadcast'
+00:00.641	ID:1	Rime started with address 1.0
+00:00.650	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 1.
+00:00.659	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.660	ID:7	Rime started with address 7.0
+00:00.661	ID:1	Starting 'sending_broadcast'
+00:00.670	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 7.
+00:00.679	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.681	ID:7	Starting 'sending_broadcast'
+00:00.968	ID:9	Rime started with address 9.0
+00:00.973	ID:5	Rime started with address 5.0
+00:00.977	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 9.
+00:00.983	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 5.
+00:00.987	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.988	ID:9	Starting 'Nodo'
+00:00.992	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.994	ID:5	Starting 'sending_broadcast'
+00:01.158	ID:3	Rime started with address 3.0
+00:01.167	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 3.
+00:01.176	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.178	ID:3	Starting 'sending_broadcast'
+03:35.116	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 4 - Num_tx: 1).
+03:35.121	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 4 - Num_tx: 1).
+03:35.125	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 4 - Num_tx: 1).
+03:35.130	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 4 - Num_tx: 1).
+03:35.179	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.179	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.185	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 14876908
+03:35.187	ID:7	Baliza 2 con distancia -73.
+03:35.187	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.189	ID:7	Baliza 4 con distancia -29.
+03:35.191	ID:7	Baliza 3 con distancia -76.
+03:35.196	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.198	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.201	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 44
+03:35.203	ID:7	Baliza 5 con distancia -20.
+03:35.205	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.206	ID:7	Baliza 4 con distancia -29.
+03:35.208	ID:7	Baliza 6 con distancia -29.
+03:35.214	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.218	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 74
+03:35.218	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.220	ID:7	Baliza 5 con distancia -20.
+03:35.222	ID:7	Baliza 6 con distancia -29.
+03:35.224	ID:7	Baliza 4 con distancia -29.
+03:35.227	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.231	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.234	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 134
+03:35.236	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.237	ID:7	Baliza 5 con distancia -20.
+03:35.239	ID:7	Baliza 6 con distancia -29.
+03:35.241	ID:7	Baliza 3 con distancia -76.
+03:35.247	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.251	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 164
+03:35.252	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.253	ID:7	Baliza 5 con distancia -20.
+03:35.256	ID:7	Baliza 4 con distancia -29.
+03:35.258	ID:7	Baliza 6 con distancia -29.
+03:35.261	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.264	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.270	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.270	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: -335150587
+03:35.272	ID:7	Baliza 5 con distancia -20.
+03:35.275	ID:7	Baliza 2 con distancia -73.
+03:35.277	ID:7	Baliza 6 con distancia -29.
+03:35.283	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.286	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.289	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 84083714
+03:35.291	ID:7	Baliza 5 con distancia -20.
+03:35.293	ID:7	Baliza 6 con distancia -29.
+03:35.295	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.295	ID:7	Baliza 4 con distancia -29.
+03:35.302	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.303	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.308	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 84149765
+03:35.310	ID:7	Baliza 5 con distancia -20.
+03:35.312	ID:7	Baliza 6 con distancia -29.
+03:35.314	ID:7	Baliza 2 con distancia -73.
+03:35.320	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.324	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.326	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 84279813
+03:35.328	ID:7	Baliza 2 con distancia -73.
+03:35.330	ID:7	Baliza 6 con distancia -29.
+03:35.332	ID:7	Baliza 3 con distancia -76.
+03:35.333	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.339	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:35.342	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:35.345	ID:7	ID Mensaje: c0 - ID Nodo: 9 - Tiempo: 1761869824
+03:35.347	ID:7	Baliza 5 con distancia -20.
+03:35.350	ID:7	Baliza 6 con distancia -29.
+03:35.352	ID:7	Baliza 4 con distancia -29.
+03:37.627	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 4 - Num_tx: 1).
+03:37.631	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 4 - Num_tx: 1).
+03:37.636	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 4 - Num_tx: 1).
+03:37.641	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 4 - Num_tx: 1).
+03:37.737	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.738	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.745	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.745	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.754	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.754	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.763	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.763	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.772	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.772	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.780	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.781	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.789	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.789	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.798	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.798	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.807	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.807	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.816	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.816	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.824	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.825	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.833	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.833	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.842	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.844	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.853	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.853	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.861	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.862	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.870	ID:8	MSG UNICAST sent to NODO 9.0 ( Status: 0 - Num_tx: 1).
+03:37.870	ID:9	MSG UNICAST from NODO 8.0 resent to NODO 7.
+03:37.930	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:37.930	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:37.935	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 47586
+03:37.937	ID:7	Baliza 1 con distancia -30.
+03:37.939	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:37.939	ID:7	Baliza 2 con distancia -30.
+03:37.941	ID:7	Baliza 3 con distancia -32.
+03:37.947	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:37.948	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:37.951	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 47
+03:37.953	ID:7	Baliza 2 con distancia -30.
+03:37.956	ID:7	Baliza 3 con distancia -32.
+03:37.956	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:37.958	ID:7	Baliza 1 con distancia -30.
+03:37.965	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:37.969	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 77
+03:37.970	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:37.971	ID:7	Baliza 2 con distancia -30.
+03:37.973	ID:7	Baliza 3 con distancia -32.
+03:37.975	ID:7	Baliza 1 con distancia -30.
+03:37.980	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:37.982	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:37.985	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 137
+03:37.988	ID:7	Baliza 1 con distancia -30.
+03:37.989	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:37.990	ID:7	Baliza 3 con distancia -32.
+03:37.992	ID:7	Baliza 2 con distancia -30.
+03:37.998	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:38.002	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 167
+03:38.003	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.004	ID:7	Baliza 1 con distancia -30.
+03:38.006	ID:7	Baliza 3 con distancia -32.
+03:38.009	ID:7	Baliza 2 con distancia -30.
+03:38.012	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.015	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:38.020	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.021	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: -503119359
+03:38.023	ID:7	Baliza 1 con distancia -30.
+03:38.025	ID:7	Baliza 2 con distancia -30.
+03:38.027	ID:7	Baliza 3 con distancia -32.
+03:38.034	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:38.036	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.040	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 33751553
+03:38.042	ID:7	Baliza 1 con distancia -30.
+03:38.044	ID:7	Baliza 2 con distancia -30.
+03:38.045	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.046	ID:7	Baliza 3 con distancia -32.
+03:38.053	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:38.054	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.058	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 16974337
+03:38.061	ID:7	Baliza 1 con distancia -30.
+03:38.063	ID:7	Baliza 2 con distancia -30.
+03:38.065	ID:7	Baliza 3 con distancia -32.
+03:38.071	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:38.075	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.077	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 17170690
+03:38.079	ID:7	Baliza 1 con distancia -30.
+03:38.081	ID:7	Baliza 2 con distancia -30.
+03:38.083	ID:7	Baliza 3 con distancia -32.
+03:38.084	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.090	ID:7	Mensaje UNICAST recibido en el SINK por parte del Nodo 9.0:
+03:38.093	ID:9	MSG UNICAST sent to NODO 7.0 ( Status: 0 - Num_tx: 1).
+03:38.096	ID:7	ID Mensaje: c0 - ID Nodo: 8 - Tiempo: 1761608963
+03:38.098	ID:7	Baliza 1 con distancia -30.
+03:38.100	ID:7	Baliza 2 con distancia -30.
+03:38.103	ID:7	Baliza 3 con distancia -32.
